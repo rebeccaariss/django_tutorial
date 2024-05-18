@@ -1,0 +1,6 @@
+.DS_Store
+.env
+settings.py
+local_settings.py
+*.pyc
+__pycache__/
